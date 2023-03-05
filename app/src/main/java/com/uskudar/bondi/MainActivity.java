@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Merhaba Türkiye");
         System.out.println("Serhat ÖZEKES galp");
         System.out.println("Mayıslar Bizimdir");
+        System.out.println("Deneme 1 2");
     }
 }
