@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Branch deneme");
         System.out.println("Martın Sonu Kara Kış");
         System.out.println("KK Aday Oldu");
+        System.out.println("onu nasil yapacaz be ablam");
     }
 }
