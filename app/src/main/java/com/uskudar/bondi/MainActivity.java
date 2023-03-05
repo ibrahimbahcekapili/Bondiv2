@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("Merhaba Türkiye");
         System.out.println("Serhat ÖZEKES galp");
+        System.out.println("Mayıslar Bizimdir");
     }
 }
