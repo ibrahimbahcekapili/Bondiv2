@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Deneme 1 2");
         System.out.println("Branch deneme");
         System.out.println("Martın Sonu Kara Kış");
+        System.out.println("KK Aday Oldu");
     }
 }
